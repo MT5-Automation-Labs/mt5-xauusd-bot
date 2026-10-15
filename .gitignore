@@ -1,0 +1,63 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+trading_bot_env/
+mac_trading_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MT5 installer
+*.exe
+
+# Logs and runtime output
+*.log
+logs/*
+!logs/.gitkeep
+data/collected/*
+!data/collected/.gitkeep
+data/ml/*
+!data/ml/.gitkeep
+data/reports/*
+!data/reports/.gitkeep
+!data/reports/optimized_multi_strategy_performance_20250830_013000.json
+*.csv
+
+# Legacy output directories from earlier layouts
+ml_data/
+collected_data/
+ml_training_data/
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# Added for MT5-Automation-Labs
+__pycache__/
+*.pyc
+.env
+*.log
+logs/
+.DS_Store
+Thumbs.db
+Desktop.ini
