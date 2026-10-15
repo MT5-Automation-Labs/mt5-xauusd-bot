@@ -154,3 +154,7 @@ python3 -m mt5bot.macos.mac_multi_strategy_bot
 ## Disclaimer
 
 This software is for education and research. Trading foreign exchange and CFDs can lose the entire amount you commit, and more where your broker allows it. Nothing in this repository is a recommendation to trade. Review every order rule on a demo account first.
+
+## Contact
+
+Telegram: [t.me/teraus111](https://t.me/teraus111)
